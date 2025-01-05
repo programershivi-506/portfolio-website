@@ -236,7 +236,8 @@ header .navbar a{
     }
 
     .about-img img {
-        width: 180px; /* Slightly smaller image */
+        width: 250px; /* Slightly smaller image */
+        margin: 8rem
     }
 
     .about-content h2 {
