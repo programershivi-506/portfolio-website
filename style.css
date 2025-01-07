@@ -565,8 +565,10 @@ header .navbar a{
       font-size: 12px; /* Smaller description text */
     }
   }
-.project-link{
-    margin: 3rem;
+.project-link,
+  .code-link {
+    margin-right: 8px; /* Horizontal spacing between buttons */
+    margin-bottom: 8px; /* Vertical spacing for better alignment */
   }
 
 
